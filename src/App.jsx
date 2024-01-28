@@ -5,7 +5,7 @@ import StudentRegister from './StudentRegister';
 import Register from './Register';
 import AdminLogin from './Admin';
 import './App.css';
-import backgroundImage from './assets/back.jpg'
+import backgroundImage from './assets/Resback.jpg'
 import AllStudents from './AllStudents';
 import StudentDetail from './StudentDetails';
 import ForgotPasswordReset from './ForgotPass';
